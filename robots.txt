@@ -1,0 +1,5 @@
+﻿User-agent: *
+Allow: /
+
+
+Sitemap: https://waterdamagesusa.pro/sitemap_index.xml
